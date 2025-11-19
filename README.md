@@ -1,16 +1,16 @@
 # fivem-personal-scripts
 
-QBCore/ESX uyumlu, modüler ve düşük tick kullanan script seti. Olay tabanlı mimari ve sade konfig ile hızlı kurulum.
+Modular, low‑tick script set for QBCore/ESX. Event‑driven design and simple config for quick setup.
 
-## Özellikler
-- Düşük tick
-- Event‑driven
-- Kolay konfig
+## Features
+- Low tick usage
+- Event‑driven architecture
+- Easy configuration
 
-## Kurulum
-- resources/[local]/fivem-personal-scripts dizinine kopyala
-- server.cfg dosyasında ensure fivem-personal-scripts
-- config.lua içinden ayarları yap
+## Installation
+- Copy to `resources/[local]/fivem-personal-scripts`
+- Add `ensure fivem-personal-scripts` to `server.cfg`
+- Configure via `config.lua`
 
-## Metrikler
-- Ortalama ms 6.8 → 3.1
+## Metrics
+- Avg ms: 6.8 → 3.1

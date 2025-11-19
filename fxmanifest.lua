@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'fivem-personal-scripts'
 author 'oxgendev'
-description 'Modüler kişisel script seti'
+description 'Modular personal script set'
 version '1.0.0'
 
 client_scripts {

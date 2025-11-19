@@ -1,3 +1,3 @@
 Config = {}
-Config.Locale = 'tr'
+Config.Locale = 'en'
 Config.PermissionRole = 'admin'
